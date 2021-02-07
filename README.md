@@ -1,23 +1,6 @@
-<h1 align="center">Hi 👋, I'm Chintan Jain</h1>
-<h3 align="center">A passionate Software Engineer</h3>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=coderchintan&label=Profile%20views&color=0e75b6&style=flat" alt="coderchintan" /> </p>
 
-- 🔭 I’m currently working on [Apollo](https://myapollo.dhl.com/lmp/login)
-
-- 🌱 I’m currently learning **AWS**
-
-- 👨‍💻 All of my projects are available at [https://coderchintan.github.io/](https://coderchintan.github.io/)
-
-- 📝 I regularly write articles on [https://coderchintan.github.io/](https://coderchintan.github.io/)
-
-- 📫 How to reach me **chintan080@gmail.com**
-
 - 📄 Know about my experiences [https://coderchintan.github.io/](https://coderchintan.github.io/)
-
-### Blogs posts
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -32,7 +15,7 @@
 
 <p align="left">
   
-  <img src="https://github-readme-stats.vercel.app/api?username=coderchintan&show_icons=true&theme=tokyonight&line_height=48" />
+  <img src="https://github-readme-stats.vercel.app/api?username=coderchintan&show_icons=true&theme=tokyonight&line_height=45" />
    <img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=coderchintan&count_private=true&theme=tokyonight">
 
 </p>
